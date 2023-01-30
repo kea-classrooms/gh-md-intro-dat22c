@@ -1,6 +1,6 @@
 # Hakan Öcal
 ### hknocal
-### 📖 Things I'm currently working on and planning to learn:
+### 📖 Things I'm currently working on and planning to learn
 1. Java
 2. HTML & CSS
 3. Spring, ThymeLeaf
@@ -8,7 +8,7 @@
 5. Linux and working with the terminal
 6. VCS & Git
 7. Docker
-### :whale: I hope to work with cloud based web applications, so I'd like to get familiar with the following languages and technologies:
+### :whale: I hope to work with cloud based web applications, so I'd like to get familiar with the following languages and technologies
 1. Programming in JavaScript, TypeScript, Rust & Go
 2. Work with MongoDB, Angular, React and Node.js
 3. Work with deployment software as Docker and Kubernetes. 
