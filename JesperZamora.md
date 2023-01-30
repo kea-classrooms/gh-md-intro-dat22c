@@ -14,4 +14,4 @@
 [Repository Link](https://github.com/JesperZamora?tab=repositories)
 
 ### My Gmail:
-[Mail Link] (jesperzamorawolff@gail.com)
+jesperzamorawolff@gail.com
