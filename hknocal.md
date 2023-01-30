@@ -9,7 +9,7 @@
 2.
 3.
 
-## About me 
+## 👤 About me 
 Lorem impsum something here...
 
 🔗 Click [here](https://github.com/hknocal) to check out my GitHub repositories!
