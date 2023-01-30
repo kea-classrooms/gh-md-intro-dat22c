@@ -26,8 +26,7 @@ https://github.com/DennisLojaCastillo?tab=repositories
 ### My mail - Feel free to send a message 
 #### kontakt@denniscastillo.dk
 
-### My portfolio
-#### [Portfolio Website](https://www.denniscastillo.dk)
+> :bulb: **Tip:** Check my portfolio [DennisCastillo.dk](https://www.denniscastillo.dk)
 
 ### Short description of what you dream of working with - two years from now
 *The dream is to be a fullstack-developer* 
