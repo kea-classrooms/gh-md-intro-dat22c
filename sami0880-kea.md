@@ -14,8 +14,9 @@
 ### Link to my all my public repositories
 [Click here to see all my public repositories](https://github.com/sami0880-kea?tab=repositories)
 
-### My Gmail  
-samimsaidi2660@gmail.com
+### My Mail  
+Gmail: samimsaidi2660@gmail.com
+School: sami0880@stud.kea.dk
 
 ### My dream in 2 years
 *In 2 years I dream on working as a full-stack developer*
