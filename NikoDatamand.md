@@ -12,7 +12,7 @@ my gmail: nikolaiaamand@gmail.com
 1. App development in key programming languages as Java and C++
 2. Unity and simple 2D game development
 3. Networks and security
-4. Assembler and in-depth hardware knowledge 
+4. Assembler and in-depth hardware knowledge :trollface:
 
 **link to my GitHub repositories:**  
 https://github.com/NikoDatamand?tab=repositories
