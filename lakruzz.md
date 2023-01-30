@@ -11,7 +11,7 @@
 
 
 ### Things I wanna work with
-1. Git and gitHub
+1. Git and GitHub
 2. Docker
 3. Product Development using No-code and Low-code tools
 4. GO 
