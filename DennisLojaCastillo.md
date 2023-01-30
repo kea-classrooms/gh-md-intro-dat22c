@@ -11,3 +11,12 @@
 - HTML & CSS
 - Wordpress Development 
 
+### Programming languages and technologies I wanna work with
+
+1. Java
+2. JavaScript
+3. Docker
+4. Python 
+
+
+
