@@ -9,7 +9,7 @@
 6. VCS & Git
 7. Docker
 ### :whale: I'd like to work and learn more about the following languages and technologies
-1. Programming in JavaScript, TypeScript, Rust & Go
+1. Programming in C#, Python, JavaScript & TypeScript, Rust & Go
 2. Work with MongoDB, Angular, React, Node.js, Docker and Kubernetes
 
 ### 👤 About me
