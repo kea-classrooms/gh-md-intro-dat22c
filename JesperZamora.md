@@ -2,6 +2,7 @@
 ## JesperZamora
 ![Buzz](https://user-images.githubusercontent.com/113138989/215462728-e63202ca-c461-40c4-97ae-6280aae92e86.png)
 
+<-- change in with -->
 <img border-radius="50px" width="250px" src="https://user-images.githubusercontent.com/113138989/215462728-e63202ca-c461-40c4-97ae-6280aae92e86.png"/>
 
 #### Woking on:
@@ -17,4 +18,4 @@
 [Repository Link](https://github.com/JesperZamora?tab=repositories)
 
 ### My Gmail:
-jesperzamorawolff@gail.com
+[Link](https://jesperzamorawolff@gail.com/)
