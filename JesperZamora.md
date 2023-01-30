@@ -10,5 +10,8 @@
 1. Python
 2. JS
 
-#### My Repositories:
+#### My Git-Repositories:
 [Repository Link](https://github.com/JesperZamora?tab=repositories)
+
+### My Gmail:
+[Mail Link] (jesperzamorawolff@gail.com)
