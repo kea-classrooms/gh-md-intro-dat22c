@@ -1,6 +1,6 @@
 # Yuying
 ## Zhang
-![This is an image](https://github.com/yuyi0011/ImageDataBase/blob/main/YYZ.jpeg/width="200" height="200" /)
+![This is an image](https://github.com/yuyi0011/ImageDataBase/blob/main/YYZ.jpeg){width=123px}
 
 ### Things I'm working on:
 - Studing data sience.
