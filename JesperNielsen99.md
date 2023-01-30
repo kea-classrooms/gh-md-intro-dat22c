@@ -1,5 +1,2 @@
 # Jesper Nielsen
 ## https://github.com/JesperNielsen99
-
-# Mohamed El Haddaoui
-## MeH2607
