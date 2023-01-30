@@ -23,3 +23,6 @@
 https://github.com/DennisLojaCastillo?tab=repositories
 
 
+### My mail (Feel free to send a message
+
+#### kontakt@denniscastillo.dk
