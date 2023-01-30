@@ -1,6 +1,7 @@
 # Thomas Løvkilde
 ## KEATLLoevkilde
-![WIN_20230130_11_46_40_Pro](https://user-images.githubusercontent.com/113091149/215457719-39b36535-d1af-4693-8336-ea3c851cc3bf.jpg)
+<img src="https://user-images.githubusercontent.com/113091149/215457719-39b36535-d1af-4693-8336-ea3c851cc3bf.jpg" alt= "image" width="250"/>
+
 Currently working on:
 * School stuff
 * A poker training software
