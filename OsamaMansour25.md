@@ -1,6 +1,6 @@
 # Osama 
 ## OsamaMansour25
-![Osama](https://user-images.githubusercontent.com/113166035/215464782-c3c6d1bf-7fde-43a0-915e-25934a134b9f.jpg)
+![Osama](https://user-images.githubusercontent.com/113166035/215465223-75f99d3a-cbd6-4aad-9d5b-617e4266bffd.jpg)
 
 
 1.
