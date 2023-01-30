@@ -1,9 +1,13 @@
 # Dennis Castillo 
-## *DennisLojaCastillo* 
+## *DennisLojaCastillo*
+
 
 
 ![Profilbillede](https://user-images.githubusercontent.com/55577545/215463875-8ab8e72c-05a6-4bf5-b7a0-db57e02231b7.png)
 
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/55577545/215463875-8ab8e72c-05a6-4bf5-b7a0-db57e02231b7.png)" />
+</p>
 
 ### Currently working on
 
@@ -30,4 +34,3 @@ https://github.com/DennisLojaCastillo?tab=repositories
 
 ### Short description of what you dream of working with - two years from now
 *The dream is to be a fullstack-developer* 
-
