@@ -4,9 +4,9 @@
 #### Working on.
 ##### - Github
 #### Prioritized list.
-##### - Java script
-##### - Python
-##### - HTML
+##### 1. Java script
+##### 2. Python
+##### 3. HTML
 #### Info
 ##### https://github.com/ErdalErdem?tab=repositories
 ##### mc4015@hotmail.com
