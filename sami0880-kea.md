@@ -5,9 +5,7 @@
 
 List of things I'm currently working in
 -------------
-* Nothing
-* Nothing
-* Nothing
+* N/A
 
 Programming languages/softwares I would love to work with
 -------------
