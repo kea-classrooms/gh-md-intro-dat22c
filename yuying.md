@@ -1,6 +1,6 @@
 # Yuying
 ## Zhang
-<img width="300px" src="[https://user-images..png](https://www.facebook.com/photo.php?fbid=10212249339427502&set=t.1798385152&type=3)"/>
+![This is an image](https://www.facebook.com/photo.php?fbid=10212249339427502&set=t.1798385152&type=3)
 
 ### Things I'm working on:
 - Studing data sience.
