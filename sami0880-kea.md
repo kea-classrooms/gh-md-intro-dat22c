@@ -17,7 +17,7 @@
 [Click here to see all my public repositories](https://github.com/sami0880-kea?tab=repositories)
 
 ### My Mail  
-* Gmail: samimsaidi2660@gmail.com
+* Studie: studie@samim.dk	
 * School: sami0880@stud.kea.dk
 
 ### My dream in 2 years
