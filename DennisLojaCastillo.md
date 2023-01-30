@@ -32,6 +32,14 @@ https://github.com/DennisLojaCastillo?tab=repositories
 ### Short description of what you dream of working with - two years from now
 *The dream is to be a fullstack-developer* 
 
+### Instagram
+
+*https://www.instagram.com/dennislojacastillo/*
+
+### Facebook
+*https://www.facebook.com/DennisLojaCastillo/*
+
+
 
 
 
