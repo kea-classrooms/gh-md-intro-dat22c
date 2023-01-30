@@ -13,7 +13,7 @@
 3. C++
 4. SQL.
 ### My repo's on GitHub
-- [Public](https://github.com/yuying?tab=repositories&q=&type=public)
+- [Public]([https://github.com/yuying?tab=repositories&q=&type=public](https://github.com/kea-classrooms/gh-md-intro-dat22c/blob/0d1045cf13cffd109281eea123cb7f0d34f1da10/yuying.md))
 ### My Email
 - KEA (Outlook): [yuyi0011@kea.stud.dk](mailto:yuyi0011@kea.stud.dk)
 ### My future
