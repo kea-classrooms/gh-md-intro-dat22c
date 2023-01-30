@@ -11,3 +11,12 @@
 1.Python 
 2. Javascript
 3. C#
+
+### A link to all your public repositories on GitHub.
+[Pulic repos](https://github.com/Asgertor?tab=repositories)
+
+### Your GMail
+Asgersensen@gmail.com
+
+### A short description of what you dream of working with
+Retired billionaire 
