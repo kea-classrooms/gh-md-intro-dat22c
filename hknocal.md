@@ -20,5 +20,5 @@ I'm currently a 2nd semester CS student planning to graduate in January 2025 and
 
 🔗 Click [here](https://github.com/hknocal?tab=repositories) to check out my GitHub repositories!
 
-📧 For e-mails and invites to Google Docs, Sheets and likewise use my e-mail <hknocal@outlook.com> (it is linked to my Google account)
+📧 For e-mails and invites to Google Docs, Sheets etc use my e-mail <hknocal@outlook.com> (it is linked to my Google account)
 
