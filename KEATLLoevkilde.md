@@ -1,6 +1,6 @@
 # Thomas Løvkilde
 ## KEATLLoevkilde
-<img src="https://user-images.githubusercontent.com/113091149/215457719-39b36535-d1af-4693-8336-ea3c851cc3bf.jpg" alt= "image" width="250"/>
+<img width="250" src="https://user-images.githubusercontent.com/113091149/215457719-39b36535-d1af-4693-8336-ea3c851cc3bf.jpg" />
 
 Currently working on:
 * School stuff
