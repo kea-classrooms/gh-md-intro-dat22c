@@ -1,7 +1,13 @@
 # Jesper Wolff
 ## JesperZamora
 ![Buzz](https://user-images.githubusercontent.com/113138989/215462728-e63202ca-c461-40c4-97ae-6280aae92e86.png)
-<img width="250px" src="https://user-images.githubusercontent.com/113138989/215462728-e63202ca-c461-40c4-97ae-6280aae92e86.png" border-radius= "50px" />
+
+<style>
+  .profile {
+  border-radius: 50px;
+  }
+</style>
+<img class="profile" width="250px" src="https://user-images.githubusercontent.com/113138989/215462728-e63202ca-c461-40c4-97ae-6280aae92e86.png"/>
 
 #### Woking on:
 1. Java
