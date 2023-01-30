@@ -1,8 +1,9 @@
 # Nikolai Aamand
 ## NikoDatamand
 
-<img src="https://user-images.githubusercontent.com/113106039/215452683-2b9eee6f-f5fd-408e-90aa-34eec5311c1b.jpg" width="100" height="200">
-my gmail: nikolaiaamand@gmail.com  
+<img src="https://user-images.githubusercontent.com/113106039/215452683-2b9eee6f-f5fd-408e-90aa-34eec5311c1b.jpg" width="100" height="200">  
+
+my gmail: nikolaiaamand@gmail.com     
 
 **things I'm are currently working on:**
 - A political simulator game in Unity (still in the idea phase)
