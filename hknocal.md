@@ -11,7 +11,7 @@
 
 ### 👤 About me
 
-![git profilbillede](https://user-images.githubusercontent.com/112850166/215467175-07abbae5-92f1-4601-8264-a61576b845d8.jpg)
+![git profilbillede](https://user-images.githubusercontent.com/112850166/215467839-1fccb204-fc69-4199-a530-421b670cfe46.jpg)
 
 Lorem impsum something here...
 
