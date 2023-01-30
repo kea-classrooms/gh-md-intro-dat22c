@@ -10,8 +10,7 @@
 7. Docker
 ### :whale: I hope to work with cloud based web applications, so I'd like to get familiar with the following languages and technologies
 1. Programming in JavaScript, TypeScript, Rust & Go
-2. Work with MongoDB, Angular, React and Node.js
-3. Work with deployment software as Docker and Kubernetes. 
+2. Work with MongoDB, Angular, React, Node.js, Docker and Kubernetes
 
 ### 👤 About me
 
