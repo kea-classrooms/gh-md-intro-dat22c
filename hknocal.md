@@ -1,15 +1,15 @@
 # Hakan Öcal
-## hknocal
-## 📖 Things I'm currently working on:
+### hknocal
+### 📖 Things I'm currently working on:
 1.
 2.
 3.
-## ⭐ List of languages and technologies I'd like to work with:
+### ⭐ List of languages and technologies I'd like to work with:
 1.
 2.
 3.
 
-## 👤 About me 
+### 👤 About me 
 Lorem impsum something here...
 
 🔗 Click [here](https://github.com/hknocal?tab=repositories) to check out my GitHub repositories!
