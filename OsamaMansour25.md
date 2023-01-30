@@ -15,6 +15,6 @@ Languages and technologies i want to work with:
 Link to repositories:
 [Repositories](https://github.com/OsamaMansour25?tab=repositories)
 
-# H1 What would i to work with in the future? 
+# What would i to work with in the future? 
 
 *Maybe explore IT Security?. Don't know yet :))*
