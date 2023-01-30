@@ -9,6 +9,7 @@
 #### Programming languages and technologies I wanna work with:
 1. Python
 2. JS
+3. etc...
 
 #### My Git-Repositories:
 [Repository Link](https://github.com/JesperZamora?tab=repositories)
