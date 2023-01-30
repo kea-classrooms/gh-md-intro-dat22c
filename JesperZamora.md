@@ -21,3 +21,9 @@
 
 #### My Gmail:
 [Link](https://jesperzamorawolff@gail.com/)
+
+#### Dream Job🧑🏾‍💻:
+![PcBangingGIF](https://user-images.githubusercontent.com/113138989/215480955-86e0a350-c7ed-44fc-9a3c-1c04020d6104.gif)
+![BlockchainNiftyRexGIF](https://user-images.githubusercontent.com/113138989/215481394-b7c0f0df-4027-4812-b52a-be6aa3cca1ad.gif)
+
+
