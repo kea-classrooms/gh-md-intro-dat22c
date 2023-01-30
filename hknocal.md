@@ -13,5 +13,5 @@
 Lorem impsum something here...
 
 Click [here](https://github.com/hknocal) to check out my GitHub repositories!
-For e-mails and invites to Google Docs, Sheets and likewise use my e-mail <hknocal@outlook> (it is linked to my Google account)
+For e-mails and invites to Google Docs, Sheets and likewise use my e-mail <hknocal@outlook.com> (it is linked to my Google account)
 
