@@ -6,3 +6,11 @@
 3. a
 4. bullet
 5. list
+
+### Woking on:
+1. Java
+2. HTML, CSS
+
+#### Programming languages and technologies I wanna work with:
+1. Python
+2. JS
