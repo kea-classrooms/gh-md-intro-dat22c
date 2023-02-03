@@ -5,8 +5,11 @@
 2. HTML & CSS
 3. Soon starting to learn and work with Spring Boot, SQL & Databases and Docker
 ### :whale: I'd like to work and learn more about the following languages and technologies
-1. Programming in JavaScript + TypeScript, C# and Python
-2. Work with MongoDB, Angular, React, Node.js, Docker and Kubernetes
+1. JavaScript
+2. Node.js
+3. Express
+4. Angular
+5. MongoDB
 
 ### 👤 About me
 
